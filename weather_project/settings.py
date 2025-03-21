@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'weather_app',
 ]
 
-OPENWEATHER_API_KEY = ''
+OPENWEATHER_API_KEY = 'bd6ef2d6b84f745391f45d9559769c37'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
